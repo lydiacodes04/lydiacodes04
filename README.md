@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🗣️🌎💻🌍 ☕ 🌏
 
 <h1 align="center">Lydia Lockhart</h1>
 <h3 align="center">Language Learner and Software Developer</h3>
