@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Lydia Lockhart</h1>
-<h3 align="center">Software Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lydiacodes04&label=Profile%20views&color=0e75b6&style=flat" alt="lydiacodes04" /> </p>
+<h1 align="center">Lydia Lockhart</h1>
+<h3 align="center">Language Learner and Software Developer</h3>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lydiacodes04&label=Profile%20views&color=0e75b6&style=flat" alt="lydiacodes04" /> </p>
 
 - 🔭 I’m currently working on [AroundtheUS](file:///Users/lydialockhart/projects/se_project_aroundtheus/index.html)
