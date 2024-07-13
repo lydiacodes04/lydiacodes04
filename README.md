@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lydia.lockhart4@gmail.com**
 
-- ⚡ Fun fact **I have studied 11 human languages; I'm fluent in English (my first language) and Spanish; looking to bring French and Brazilian Portuguese up to fluency this year. **
+- ⚡ Fun fact **I have studied 11 human languages; I'm fluent in English (my first language) and Spanish **
 
 
 
