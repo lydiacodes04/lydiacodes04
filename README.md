@@ -7,9 +7,9 @@
 
 - 😊 I’m a social-worker becoming a software developer through Triple Ten Bootcamp.
   
-- 🔭 I'm currently working on [AroundtheUS](file:///Users/lydialockhart/projects/se_project_aroundtheus/index.html)
+- 🔭 I'm currently working on WTWR, an app that suggest which clothing you should wear based on the current weather in your area.
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lydiacodes04](https://github.com/lydiacodes04)
 
