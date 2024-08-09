@@ -7,7 +7,7 @@
 
 - 😊 I’m a social-worker becoming a software developer through Triple Ten Bootcamp.
   
-- 🔭 I'm currently working on WTWR, an app that suggest which clothing you should wear based on the current weather in your area.
+- 🔭 I'm currently working on building the backend for WTWR, an app that suggest which clothing you should wear based on the current weather in your area.
 
 - 🌱 I’m currently learning **React**
 
