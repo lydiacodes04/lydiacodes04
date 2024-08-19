@@ -5,7 +5,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lydiacodes04&label=Profile%20views&color=0e75b6&style=flat" alt="lydiacodes04" /> </p>
 
-- 😊 I’m a social-worker becoming a software developer through Triple Ten Bootcamp.
+- 😊 I’m a social services professional learning software development through Triple Ten Bootcamp.
   
 - 🔭 I'm currently working on building the backend for WTWR, an app that suggest which clothing you should wear based on the current weather in your area.
 
