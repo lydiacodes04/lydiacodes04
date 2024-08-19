@@ -7,9 +7,9 @@
 
 - 😊 I’m a social services professional learning software development through Triple Ten Bootcamp.
   
-- 🔭 I'm currently working on building the backend for WTWR, an app that suggest which clothing you should wear based on the current weather in your area.
+- 🔭 I'm currently working on building the backend for WTWR, a React app that suggest which clothing you should wear based on the current weather in your area.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lydiacodes04](https://github.com/lydiacodes04)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lydia.lockhart4@gmail.com**
 
-- ⚡ Fun fact **I have studied 11 human languages; I'm fluent in English (my first language) and Spanish **
+- ⚡ Fun fact **I have studied 11 human languages; I'm fluent in English (my first language) and Spanish, and I am currently working on bringing Brazilian Portuguese and French up to fluency. **
 
 
 
