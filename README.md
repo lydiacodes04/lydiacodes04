@@ -7,9 +7,9 @@
 
 - 😊 I’m a social services professional learning software development through Triple Ten Bootcamp.
   
-- 🔭 I'm currently working on building the backend for WTWR, a React app that suggest which clothing you should wear based on the current weather in your area.
+- 🔭 I'm currently working on combining the front and backend for WTWR, a React app that suggest which clothing you should wear based on the current weather in your area.
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Fullstack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lydiacodes04](https://github.com/lydiacodes04)
 
