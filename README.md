@@ -5,9 +5,9 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lydiacodes04&label=Profile%20views&color=0e75b6&style=flat" alt="lydiacodes04" /> </p>
 
-- 😊 I’m a social services professional learning software development through Triple Ten Bootcamp.
+- 😊 I’m a Program Coordinator with program and project management experience learning software development through Triple Ten Bootcamp.
   
-- 🔭 I'm currently working on combining the front and backend for WTWR, a React app that suggest which clothing you should wear based on the current weather in your area.
+- 🔭 I'm currently working on my final project, a React app youth can use to access resources near them.
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **my interest in learning languages**
 
-- 📫 How to reach me **lydia.lockhart4@gmail.com**
-
 - ⚡ Fun fact **I have studied 11 human languages; I'm fluent in English (my first language) and Spanish, and I am currently working on bringing Brazilian Portuguese and French up to fluency. **
+
+- 📫 How to reach me **lydia.lockhart4@gmail.com**
 
 
 
